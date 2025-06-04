@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.emoji.gg%2Femojis%2F3157-goat.png&f=1&nofb=1&ipt=f275130daf5f93bfbfb75728a258174469759b0cf49d42213846fee982b19d33" width="180px" alt="Anime coder waving"/>
+img ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.emoji.gg%2Femojis%2F3157-goat.png&f=1&nofb=1&ipt=f275130daf5f93bfbfb75728a258174469759b0cf49d42213846fee982b19d33" width="180px" alt="Anime coder waving"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm DiSavio</h1>
@@ -33,15 +33,13 @@
 
 ### 👾 Bio
 
-A place for your bio.  
-*(Add your own story, aspirations, or what drives you!)*
+
 
 ---
 
 ### 😎 Fun Fact
 
-A fun fact about you goes here!  
-*(Share something unique, quirky, or unexpected!)*
+
 
 ---
 
@@ -58,7 +56,7 @@ A fun fact about you goes here!
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250px" alt="Anime coding swag"/>
   <br>
-  <i>“Code like a hero, debug like a sensei.”</i>
+  <i>“I'm Him”</i>
 </p>
 
 <!--
