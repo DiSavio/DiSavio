@@ -3,7 +3,8 @@
 -->
 
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" width="180px" alt="Anime coder waving"/>
+  <img src="![image](https://github.com/user-attachments/assets/964657b7-04db-4c31-9e9c-dd3c29b3f2ef)
+" width="180px" alt="Anime coder waving"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm DiSavio</h1>
