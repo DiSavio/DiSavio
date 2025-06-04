@@ -17,7 +17,7 @@
 
 - 🎓 Computer Science graduate passionate about building cool stuff
 - 💻 Java, React, Oracle, and PostgreSQL are my playgrounds
-- 🌈 Striving for a blend of clean code, color, and a little anime flair
+- 😇 Striving for a blend of clean code, color, and a little anime flair
 
 ---
 
