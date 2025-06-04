@@ -3,8 +3,7 @@
 -->
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/964657b7-04db-4c31-9e9c-dd3c29b3f2ef)
-" width="180px" alt="Anime coder waving"/>
+"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.emoji.gg%2Femojis%2F3157-goat.png&f=1&nofb=1&ipt=f275130daf5f93bfbfb75728a258174469759b0cf49d42213846fee982b19d33" width="180px" alt="Anime coder waving"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm DiSavio</h1>
