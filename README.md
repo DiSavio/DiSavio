@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm DiSavio</h1>
 <p align="center">
-  <b>Computer Science Graduate | Java & React Pro | DB Enthusiast</b>
+  <b>Computer Science Graduate | Java & React Pro & Linux professional</b>
 </p>
 
 ---
